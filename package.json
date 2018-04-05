@@ -1,5 +1,5 @@
 {
-  "name": "react-apollo",
+  "name": "@qutics/react-apollo",
   "version": "2.1.0",
   "author": "opensource@apollographql.com",
   "browser": "lib/react-apollo.browser.umd.js",
